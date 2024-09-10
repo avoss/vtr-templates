@@ -1,0 +1,19 @@
+---
+backgroundImage: "thumbnail.png"
+fancyTexts:
+- xoffset: 350
+  yoffset: 180
+  maxWidth: 620
+  maxHeight: 320
+  fontColor: "#fadb00"
+  shinyFontColor: "#ffffff"
+  shinyWithGlow: true
+  fontSizeMin: 50
+  fontSizeMax: 500
+  fontSizeStep: 1
+  heightImportance: 1.0
+  widthImportance: 1.0
+  fontImportance: 15.0
+  justifiedImportance: 3.0
+  mode: "CATCHY"
+  text: "Weekly Update July 31, 2024"

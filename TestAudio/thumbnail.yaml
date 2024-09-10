@@ -1,0 +1,16 @@
+---
+backgroundImage: "thumbnail.png"
+fancyTexts:
+- xoffset: 400
+  yoffset: 40
+  maxWidth: 800
+  maxHeight: 580
+  fontColor: "#fadb00"
+  shinyFontColor: "#ffffff"
+  shinyWithGlow: true
+  fontSizeMin: 50
+  fontSizeMax: 100
+  fontSizeStep: 1
+  heightImportance: 1
+  mode: "NEUTRAL"
+  text: "Israel's Doomed-to-Fail Strategy"

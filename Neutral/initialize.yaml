@@ -1,0 +1,24 @@
+video:
+  title: "Here’s What the Media Isn’t Telling You About the Venezuelan Election"
+  url: "https://youtu.be/obq8FHMoGDo"
+  language: en-US
+  voices: [M2,F1,M1]
+  names: ""
+thumbnail:
+  fancy:
+    text: ""
+    mode: NEUTRAL
+generate:
+  languages: [de-DE,es-ES,fr-FR]
+  logos: true
+  type: VIDEO
+upload:
+  auth-pattern: TestCredentials
+  creator-id: Test Creator
+  # produced-by: 
+  # original-date: 
+  # original-url:
+  # original-title: 
+  languages: [de-DE]
+email: mail@a-voss.de
+

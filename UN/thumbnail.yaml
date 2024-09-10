@@ -1,0 +1,32 @@
+---
+backgroundImage: "thumbnail.png"
+darkenedAreas: []
+fancyTexts:
+- xoffset: 600
+  yoffset: 60
+  maxWidth: 600
+  maxHeight: 572
+  fontColor: "#fadb00"
+  shinyFontColor: "#ffffff"
+  shinyWithGlow: true
+  textShadow: 4
+  fontFamily: null
+  fontSizeMin: 40
+  fontSizeMax: 500
+  fontSizeStep: 1
+  heightImportance: 1.0
+  widthImportance: 1.0
+  fontImportance: 5.0
+  justifiedImportance: 10.0
+  mode: "CATCHY"
+  maxNumberOfLines: 5
+  text: "Will the reverse Cuban crises lead to WW3?"
+simpleTexts:
+- xoffset: 640
+  yoffset: 645
+  fontColor: "#ffffff"
+  fontSize: 45
+  alignment: "CENTER"
+  mode: "NEUTRAL"
+  text: "Daniel Kowalik at the UN Security Council"
+

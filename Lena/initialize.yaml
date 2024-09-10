@@ -1,0 +1,22 @@
+video:
+  title: ""
+  url: ""
+  language: en-US
+  voices: [F1,F2,M1]
+  names: "Lena Petrova"
+thumbnail:
+  fancy:
+    text: ""
+    align: RIGHT
+    mode: CATCHY
+generate:
+  languages: [de-DE,ar-SA,cmn-CN,es-ES,fr-FR,ja-JP,ru-RU,pt-BR]
+  logos: true
+  type: VIDEO
+upload:
+  auth-pattern: NeutralityStudies_%s
+  creator-id: "LenaPetrova"
+  produced-by: "Lena Petrova"
+  languages: [de-DE,ar-SA,cmn-CN,es-ES,fr-FR,ja-JP,ru-RU,pt-BR]
+email: mail@a-voss.de
+

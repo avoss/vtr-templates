@@ -1,0 +1,26 @@
+---
+backgroundImage: "thumbnail.png"
+fancyTexts:
+- xoffset: 400
+  yoffset: 40
+  maxWidth: 800
+  maxHeight: 550
+  fontColor: "#fadb00"
+  shinyFontColor: "#ffffff"
+  shinyWithGlow: true
+  fontSizeMin: 50
+  fontSizeMax: 150
+  fontSizeStep: 1
+  heightImportance: 1
+  widthImportance: 10
+  fontImportance: 2
+  mode: "NEUTRAL"
+  text: ""
+simpleTexts:
+- xoffset: 20
+  yoffset: 623
+  fontColor: "#53afc9"
+  fontSize: 65
+  alignment: "LEFT"
+  mode: "NEUTRAL"
+  text: "Professor Jeffrey D. Sachs"

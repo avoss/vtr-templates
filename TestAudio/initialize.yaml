@@ -1,0 +1,16 @@
+generate:
+  languages: [de-DE]
+  logos: true
+  transcript-language: en-US # not necessary if video: is present
+  type: AUDIO
+
+upload:
+  auth-pattern: TestCredentials
+  creator-id: Test Creator
+  produced-by: Professor Jeffrey D. Sachs # optional if video: is present
+  original-date: 2024-04-22
+  original-url: https://www.jeffsachs.org
+  original-title: The Original Title
+  languages: [de-DE]
+
+email: mail@a-voss.de

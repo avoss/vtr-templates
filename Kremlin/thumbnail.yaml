@@ -1,0 +1,32 @@
+---
+backgroundImage: "thumbnail.png"
+darkenedAreas: []
+fancyTexts:
+- xoffset: 550
+  yoffset: 20
+  maxWidth: 600
+  maxHeight: 572
+  fontColor: "#fadb00"
+  shinyFontColor: "#ffffff"
+  shinyWithGlow: true
+  textShadow: 4
+  fontFamily: null
+  fontSizeMin: 40
+  fontSizeMax: 500
+  fontSizeStep: 1
+  heightImportance: 1.0
+  widthImportance: 1.0
+  fontImportance: 15.0
+  justifiedImportance: 3.0
+  mode: "CATCHY"
+  maxNumberOfLines: 5
+  text: "Putin on Ukraine Kursk Incursion"
+simpleTexts:
+- xoffset: 640
+  yoffset: 623
+  fontColor: "#ff2222"
+  fontFamily: null
+  fontSize: 75
+  alignment: "CENTER"
+  mode: "NEUTRAL"
+  text: "Kremlin-Video Translation"

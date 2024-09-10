@@ -1,0 +1,18 @@
+video:
+  title: ""
+  url: "http://www.kremlin.ru/events/president/news/74856"
+  language: ru-RU
+  voices: [M2,M1,M3,M1,M3,M1,M3,M1,M3]
+  names: ""
+generate:
+  languages: [ar-SA,cmn-CN,de-DE,es-ES,fr-FR,ja-JP,pt-BR]
+  logos: true
+  type: VIDEO
+upload:
+  produced-by: Kremlin
+  original-url: www.kremlin.ru
+  auth-pattern: NeutralityStudies_%s
+  creator-id: Kremlin
+  languages: [ar-SA,cmn-CN,de-DE,es-ES,fr-FR,ja-JP,pt-BR]
+email: mail@a-voss.de
+

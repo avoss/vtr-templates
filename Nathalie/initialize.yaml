@@ -1,0 +1,20 @@
+video:
+  title: ""
+  url: ""
+  language: fr-FR
+  voices: [F1,M1,M2,M3,F2]
+  names: "Nathalie Yamb"
+thumbnail:
+  fancy:
+    text: ""
+    mode: NEUTRAL
+generate:
+  languages: [de-DE,ar-SA,cmn-CN,en-US,es-ES,ja-JP,ru-RU,pt-BR]
+  logos: true
+  type: VIDEO
+upload:
+  auth-pattern: NeutralityStudies_%s
+  creator-id: NathalieYamb
+  languages: [de-DE,ar-SA,cmn-CN,en-US,es-ES,ja-JP,ru-RU,pt-BR]
+email: mail@a-voss.de
+

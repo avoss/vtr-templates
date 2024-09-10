@@ -1,0 +1,30 @@
+video:
+  title: Jeff Sachs at UN security council
+  url: https://youtu.be/kFdHvQhp-tU
+  language: en-US
+  voices: [M1]
+  names: Jeffrey Sachs
+thumbnail:
+  fancy:
+    text: Jeffrey Sachs at the UN Security Council
+    align: RIGHT
+    mode: CATCHY
+  bottom:
+    text: Professor Jeffrey D. Sachs
+    align: LEFT
+    mode: NEUTRAL
+generate:
+  languages: [de-DE]
+  logos: true
+  # transcript-language: en-US # not necessary if video: is present
+  type: VIDEO
+upload:
+  auth-pattern: TestCredentials
+  creator-id: Test Creator
+  produced-by: Professor Jeffrey D. Sachs # optional if video: is present
+  # original-date: 
+  # original-url:
+  # original-title: 
+  languages: [de-DE]
+email: mail@a-voss.de
+

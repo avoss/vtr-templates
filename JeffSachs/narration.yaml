@@ -1,0 +1,10 @@
+---
+backgroundImage: "narration.png"
+xoffset: 410
+yoffset: 40
+width: 800
+height: 580
+fontColor: "#fadb00"
+fontSizeMin: 5
+fontSizeMax: 80
+fontSizeStep: 2

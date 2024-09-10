@@ -1,0 +1,26 @@
+video:
+  title: ""
+  url: ""
+  language: de-DE
+  voices: [M1,M2]
+  names: "Pascal"
+thumbnail:
+  fancy:
+    text: ""
+    align: RIGHT
+    mode: CATCHY
+  bottom:
+    text: ""
+    align: LEFT
+    mode: NEUTRAL
+generate:
+  languages: [ar-SA,cmn-CN,en-US,es-ES,fr-FR,ja-JP,ru-RU,pt-BR]
+  logos: true
+  type: VIDEO
+upload:
+  auth-pattern: NeutralityStudies_%s
+  creator-id: www.neutralitystudies.com
+  produced-by: Neutrality Studies
+  languages: [ar-SA,cmn-CN,es-ES,fr-FR,ja-JP,ru-RU,pt-BR]
+email: mail@a-voss.de
+
