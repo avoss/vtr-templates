@@ -1,0 +1,24 @@
+video:
+  title: ""
+  url: ""
+  language: ""
+  voices: []
+  names: ""
+thumbnail:
+  fancy:
+    text: ""
+    mode: CATCHY
+generate:
+  languages: [ar-SA,cmn-CN,es-ES,fr-FR,ja-JP,ru-RU,pt-BR,en-US]
+  logos: true
+  type: VIDEO
+upload:
+  auth-pattern: NeutralityStudies_%s
+  languages: [de-DE,ar-SA,cmn-CN,es-ES,fr-FR,ja-JP,ru-RU,pt-BR,en-US,de-DE]
+  creator-id: SaneVoices
+  produced-by: NachDenkSeiten.de
+  original-date: ""
+  original-url: ""
+  original-title: ""
+email: mail@a-voss.de
+

@@ -1,3 +1,5 @@
+# Kremlin only video
+
 in generated build.sh 
 
 1. replace
@@ -19,4 +21,6 @@ add title and description to review.txt manually
 after upload remove from video description:
 
 Translation published with kind permission of Kremlin.
+
+# Kremlin with Intro and Outro from Pascal
 

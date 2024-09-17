@@ -3,7 +3,7 @@
 # remove copyright music from begin and end of Lena's videos
 
 intro=4.5
-outro=11.7
+outro=11.2
 
 if test -f video.mp4 && test -f video-orig.mp4 ; then
   echo files already exist

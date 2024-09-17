@@ -21,6 +21,6 @@ upload:
   auth-pattern: NeutralityStudies_%s
   creator-id: www.neutralitystudies.com
   produced-by: Neutrality Studies
-  languages: [ar-SA,cmn-CN,es-ES,fr-FR,ja-JP,ru-RU,pt-BR]
+  languages: [ar-SA,cmn-CN,en-US,es-ES,fr-FR,ja-JP,ru-RU,pt-BR]
 email: mail@a-voss.de
 
