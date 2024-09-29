@@ -1,0 +1,30 @@
+---
+backgroundImage: "thumbnail-orig.png"
+darkenedAreas: 
+- xoffset: 0
+  yoffset: 500
+  width: 1280
+  height: 220
+  color: "#051d39"
+  alpha: 1
+fancyTexts:
+- xoffset: 20
+  yoffset: 520
+  maxWidth: 1240
+  maxHeight: 180
+  fontColor: "#fadb00"
+  shinyFontColor: "#ffffff"
+  shinyWithGlow: true
+  textShadow: 4
+  fontFamily: null
+  fontSizeMin: 40
+  fontSizeMax: 500
+  fontSizeStep: 1
+  heightImportance: 1.0
+  widthImportance: 1.0
+  fontImportance: 15.0
+  justifiedImportance: 3.0
+  mode: "CATCHY"
+  maxNumberOfLines: 2
+  text: "Brink of Nuclear War"
+simpleTexts: []

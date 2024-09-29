@@ -1,0 +1,20 @@
+video:
+  title: ""
+  url: ""
+  language: en-US
+  voices: [M2,M1]
+  names: 
+thumbnail:
+  fancy:
+    text: ""
+generate:
+  languages: [de-DE,ar-SA,cmn-CN,es-ES,fr-FR,ja-JP,ru-RU,pt-BR]
+  logos: true
+  type: VIDEO
+upload:
+  auth-pattern: NeutralityStudies_%s
+  creator-id: DannyHaiphong
+  produced-by: Danny Haiphong
+  languages: [de-DE,ar-SA,cmn-CN,es-ES,fr-FR,ja-JP,ru-RU,pt-BR]
+email: mail@a-voss.de
+
