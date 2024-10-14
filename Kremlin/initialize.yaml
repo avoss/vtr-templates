@@ -3,7 +3,10 @@ video:
   url: ""
   language: ru-RU
   voices: [M2,M1,M3,M1,M3,M1,M3,M1,M3]
-  names: ""
+  names: 
+thumbnail:
+  fancy:
+    text: ""
 generate:
   languages: [ar-SA,cmn-CN,de-DE,es-ES,fr-FR,ja-JP,pt-BR]
   logos: true

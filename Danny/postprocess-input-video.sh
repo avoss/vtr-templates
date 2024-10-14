@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# remove copyright music from begin and end of Lena's videos
+# remove copyright music from the end of Danny's videos
 
-intro=4.5
-outro=11.2
+intro=0
+outro=63
 
 echo "Removing Copyright Music ..."
 
