@@ -7,11 +7,11 @@ video:
 thumbnail:
   fancy:
     text: ""
-    align: RIGHT
+    align: LEFT
     mode: CATCHY
   bottom:
     text: ""
-    align: LEFT
+    align: CENTER
     mode: NEUTRAL
 generate:
   languages: [de-DE,ar-SA,cmn-CN,es-ES,fr-FR,ja-JP,ru-RU,pt-BR]
