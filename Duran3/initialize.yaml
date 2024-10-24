@@ -1,0 +1,17 @@
+video:
+  title: ""
+  url: ""
+  language: en-US
+  voices: [M2,M1,M3]
+  names: Alexander Mercouris, Alex Christoforou, Glenn Diesen, BRICS
+generate:
+  languages: [de-DE,ar-SA,cmn-CN,es-ES,fr-FR,ja-JP,ru-RU,pt-BR]
+  logos: true
+  type: VIDEO
+upload:
+  auth-pattern: NeutralityStudies_%s
+  creator-id: TheDuran
+  produced-by: The Duran
+  languages: [de-DE,ar-SA,cmn-CN,es-ES,fr-FR,ja-JP,ru-RU,pt-BR]
+email: mail@a-voss.de
+
