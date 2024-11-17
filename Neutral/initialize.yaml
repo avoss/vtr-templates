@@ -10,7 +10,8 @@ thumbnail:
     mode: NEUTRAL
 generate:
   languages: [de-DE,es-ES,fr-FR]
-  logos: true
+  overlay: true
+  trailer: true
   type: VIDEO
 upload:
   auth-pattern: TestCredentials

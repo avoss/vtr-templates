@@ -10,7 +10,8 @@ thumbnail:
     mode: CATCHY
 generate:
   languages: [ar-SA,cmn-CN,es-ES,fr-FR,ja-JP,ru-RU,pt-BR,en-US]
-  logos: true
+  overlay: true
+  trailer: true
   type: VIDEO
 upload:
   auth-pattern: NeutralityStudies_%s

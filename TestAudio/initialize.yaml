@@ -1,6 +1,7 @@
 generate:
   languages: [de-DE]
-  logos: true
+  overlay: true
+  trailer: true
   transcript-language: en-US # not necessary if video: is present
   type: AUDIO
 

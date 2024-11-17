@@ -9,7 +9,8 @@ thumbnail:
     text: ""
 generate:
   languages: [ar-SA,cmn-CN,de-DE,es-ES,fr-FR,ja-JP,pt-BR]
-  logos: true
+  overlay: true
+  trailer: true
   type: VIDEO
 upload:
   produced-by: Kremlin
