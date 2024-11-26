@@ -14,8 +14,8 @@ generate:
   trailer: true
   type: VIDEO
 upload:
-  auth-pattern: TestCredentials
-  creator-id: Test Creator
+  auth-pattern: NeutralityStudies_%s
+  creator-id: "SaneVoices"
   # produced-by: 
   # original-date: 
   # original-url:

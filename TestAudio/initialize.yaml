@@ -6,8 +6,8 @@ generate:
   type: AUDIO
 
 upload:
-  auth-pattern: TestCredentials
-  creator-id: Test Creator
+  auth-pattern: PreviewCredentials
+  creator-id: PreviewCreator
   produced-by: Professor Jeffrey D. Sachs # optional if video: is present
   original-date: 2024-04-22
   original-url: https://www.jeffsachs.org
