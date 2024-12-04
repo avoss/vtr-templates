@@ -5,16 +5,16 @@ video:
   voices: [F1,M3]
 thumbnail:
   fancy:
-    text: "Weekly Update August 22, 2024"
+    text: "Weekly Update December 4, 2024"
     mode: NEUTRAL
 generate:
-  languages: [de-DE,cmn-CN,es-ES,fr-FR,ja-JP,ru-RU]
+  languages: [de-DE,cmn-CN]
   overlay: true
   trailer: true
   type: VIDEO
 upload:
-  auth-pattern: NeutralityStudies_%s
-  creator-id: Small Town Voice 1
-  languages: [de-DE,cmn-CN,es-ES,fr-FR,ja-JP,ru-RU]
+  auth-pattern: PreviewCredentials
+  creator-id: PreviewCreator
+  languages: [de-DE,cmn-CN]
 email: mail@a-voss.de
 
