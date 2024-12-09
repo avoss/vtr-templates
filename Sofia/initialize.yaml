@@ -1,11 +1,11 @@
 video:
-  title: "China's take on Thucydides Trap, Biden's bet, Trump, Netanyahu gamble"
-  url: "https://youtu.be/1oVGA5O_g0M"
+  title: ""
+  url: ""
   language: en-US
   voices: [F1,M3]
 thumbnail:
   bottom:
-    text: "11/29/2024"
+    text: "" # e.g. "11/29/2024"
 generate:
   languages: [de-DE,cmn-CN,es-ES,fr-FR]
   overlay: true
