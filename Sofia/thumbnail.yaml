@@ -1,13 +1,16 @@
 ---
 backgroundImage: "thumbnail.png"
+darkenedAreas: []
 fancyTexts:
 - xoffset: 350
-  yoffset: 180
+  yoffset: 200
   maxWidth: 620
-  maxHeight: 320
+  maxHeight: 160
   fontColor: "#fadb00"
   shinyFontColor: "#ffffff"
   shinyWithGlow: true
+  textShadow: 3
+  fontFamily: null
   fontSizeMin: 50
   fontSizeMax: 500
   fontSizeStep: 1
@@ -15,5 +18,15 @@ fancyTexts:
   widthImportance: 1.0
   fontImportance: 15.0
   justifiedImportance: 3.0
-  mode: "CATCHY"
-  text: "Weekly Update July 31, 2024"
+  mode: "NEUTRAL"
+  maxNumberOfLines: 2
+  text: "Weekly Update"
+simpleTexts:
+- xoffset: 660
+  yoffset: 400
+  fontColor: "#ffffff"
+  fontFamily: null
+  fontSize: 65
+  alignment: "CENTER"
+  mode: "NEUTRAL"
+  text: "11/29/2024"

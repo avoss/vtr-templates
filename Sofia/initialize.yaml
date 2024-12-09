@@ -1,20 +1,19 @@
 video:
-  title: ""
-  url: ""
+  title: "China's take on Thucydides Trap, Biden's bet, Trump, Netanyahu gamble"
+  url: "https://youtu.be/1oVGA5O_g0M"
   language: en-US
   voices: [F1,M3]
 thumbnail:
-  fancy:
-    text: "Weekly Update December 4, 2024"
-    mode: NEUTRAL
+  bottom:
+    text: "11/29/2024"
 generate:
-  languages: [de-DE,cmn-CN]
+  languages: [de-DE,cmn-CN,es-ES,fr-FR]
   overlay: true
   trailer: true
   type: VIDEO
 upload:
-  auth-pattern: PreviewCredentials
-  creator-id: PreviewCreator
-  languages: [de-DE,cmn-CN]
+  auth-pattern: "SaneVox_%s"
+  creator-id: "SmallTownVoice"
+  languages: [de-DE,cmn-CN,es-ES,fr-FR]
 email: mail@a-voss.de
 

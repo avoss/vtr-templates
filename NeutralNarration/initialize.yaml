@@ -1,7 +1,7 @@
 generate:
   languages: [ar-SA,cmn-CN,de-DE,es-ES,fr-FR,ja-JP,ru-RU,pt-BR]
   overlay: true
-  trailer: true
+  trailer: false
   transcript-language: en-US
   type: AUDIO
 
@@ -9,9 +9,9 @@ upload:
   auth-pattern: NeutralityStudies_%s
   creator-id: SaneVoices
   languages: [ar-SA,cmn-CN,de-DE,es-ES,fr-FR,ja-JP,ru-RU,pt-BR]
-  produced-by: "TODO"
-  original-date: "TODO"
-  original-url: "TODO"
-  original-title: "TODO"
+  produced-by: ""
+  original-date: ""
+  original-url: ""
+  original-title: ""
 
 email: mail@a-voss.de
