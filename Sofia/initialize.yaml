@@ -5,7 +5,7 @@ video:
   voices: [F1,M3]
 thumbnail:
   bottom:
-    text: "" # e.g. "11/29/2024"
+    text: "" # e.g. "November 29, 2024"
 generate:
   languages: [de-DE,cmn-CN,es-ES,fr-FR]
   overlay: true
