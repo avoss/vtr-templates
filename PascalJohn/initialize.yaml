@@ -1,0 +1,23 @@
+video:
+  title: ""
+  url: ""
+  language: en-US
+  voices: [M3,M2]
+  names: "Pascal, John"
+thumbnail:
+  fancy:
+    text: ""
+    align: LEFT
+    mode: CATCHY
+generate:
+  languages: [de-DE,ar-SA,cmn-CN,es-ES,fr-FR,ja-JP,ru-RU,pt-BR]
+  overlay: true
+  trailer: false
+  type: VIDEO
+upload:
+  auth-pattern: NeutralityStudies_%s
+  creator-id: www.neutralitystudies.com
+  produced-by: Neutrality Studies
+  languages: [de-DE,ar-SA,cmn-CN,es-ES,fr-FR,ja-JP,ru-RU,pt-BR]
+email: mail@a-voss.de
+

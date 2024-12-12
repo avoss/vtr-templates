@@ -1,0 +1,24 @@
+---
+backgroundImage: "thumbnail.png"
+darkenedAreas: []
+fancyTexts:
+- xoffset: 20
+  yoffset: 100
+  maxWidth: 600
+  maxHeight: 580
+  fontColor: "#fadb00"
+  shinyFontColor: "#ffffff"
+  shinyWithGlow: true
+  textShadow: 4
+  fontFamily: null
+  fontSizeMin: 40
+  fontSizeMax: 500
+  fontSizeStep: 1
+  heightImportance: 1.0
+  widthImportance: 1.0
+  fontImportance: 15.0
+  justifiedImportance: 3.0
+  mode: "CATCHY"
+  maxNumberOfLines: 5
+  text: ""
+simpleTexts: []
