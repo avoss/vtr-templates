@@ -1,5 +1,5 @@
 generate:
-  languages: [ar-SA,cmn-CN,de-DE,es-ES,fr-FR,ja-JP,ru-RU,pt-BR]
+  languages: [ar-SA,cmn-CN,de-DE,es-ES,fr-FR,ja-JP,ru-RU,pt-BR,en-US]
   overlay: true
   trailer: false
   transcript-language: en-US
@@ -13,7 +13,7 @@ upload:
   original-title: "" 
   auth-pattern: NeutralityStudies_%s
   creator-id: "Jeffrey Sachs Audio Essays"
-  languages: [ar-SA,cmn-CN,de-DE,es-ES,fr-FR,ja-JP,ru-RU,pt-BR]
+  languages: [ar-SA,cmn-CN,de-DE,es-ES,fr-FR,ja-JP,ru-RU,pt-BR,en-US]
   produced-by: "Professor Jeffrey D. Sachs"
   original-url: https://www.jeffsachs.org
 
