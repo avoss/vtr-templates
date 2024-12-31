@@ -7,7 +7,7 @@ thumbnail:
   bottom:
     text: "" # e.g. "November 29, 2024"
 generate:
-  languages: [de-DE,cmn-CN,es-ES,fr-FR]
+  languages: [de-DE,cmn-CN,es-ES,fr-FR,ja-JP]
   overlay: true
   trailer: true
   adjustDescriptionTimestamps: true
@@ -15,6 +15,6 @@ generate:
 upload:
   auth-pattern: "SaneVox_%s"
   creator-id: "SmallTownVoice"
-  languages: [de-DE,cmn-CN,es-ES,fr-FR]
+  languages: [de-DE,cmn-CN,es-ES,fr-FR,ja-JP]
 email: mail@a-voss.de
 
