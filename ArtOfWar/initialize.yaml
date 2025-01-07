@@ -1,0 +1,21 @@
+video:
+  title: ""
+  url: ""
+  language: pt-BR
+  voices: [M3]
+  names: 
+generate:
+  languages: [en-US]
+  overlay: true
+  trailer: false
+  type: VIDEO
+upload:
+  auth-pattern: ArtOfWar
+  creator-id: ArtOfWar
+  # produced-by: 
+  # original-date: 
+  # original-url:
+  # original-title: 
+  languages: [en-US]
+email: mail@a-voss.de
+
