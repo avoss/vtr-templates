@@ -2,7 +2,6 @@ generate:
   languages: [ar-SA,cmn-CN,de-DE,es-ES,fr-FR,ja-JP,ru-RU,pt-BR,hi-IN,it-IT,id-ID,en-US]
   overlay: true
   trailer: false
-  transcript-language: en-US
   type: AUDIO
 thumbnail:
   fancy:
