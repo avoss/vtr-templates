@@ -1,11 +1,12 @@
 ---
 backgroundImage: "thumbnail.png"
+sourceLanguage: en-US
 fancyTexts:
-- xoffset: 350
-  yoffset: 200
-  maxWidth: 620
-  maxHeight: 320
-  fontColor: "#fadb00"
+- xoffset: 40
+  yoffset: 8
+  maxWidth: 1200
+  maxHeight: 160
+  fontColor: "#ffffff"
   shinyFontColor: "#ffffff"
   shinyWithGlow: true
   textShadow: 3
@@ -18,14 +19,14 @@ fancyTexts:
   fontImportance: 15.0
   justifiedImportance: 3.0
   mode: "NEUTRAL"
-  maxNumberOfLines: 2
-  text: "Weekly Update"
+  maxNumberOfLines: 1
+  text: "Alexander Mercouris"
 simpleTexts:
-- xoffset: 660
-  yoffset: 617
-  fontColor: "#ffffff"
+- xoffset: 640
+  yoffset: 565
+  fontColor: "#fadb00"
   fontFamily: null
-  fontSize: 65
+  fontSize: 100
   alignment: "CENTER"
   mode: "NEUTRAL"
-  text: "December 12, 2024"
+  text: "January 16, 2025"
