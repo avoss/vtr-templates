@@ -10,7 +10,7 @@ generate:
   languages: [de-DE,cmn-CN,es-ES,fr-FR,ja-JP]
   overlay: true
   trailer: true
-  adjustDescriptionTimestamps: true
+  adjust-description-timestamps: true
   type: VIDEO
 upload:
   auth-pattern: "SaneVox_%s"

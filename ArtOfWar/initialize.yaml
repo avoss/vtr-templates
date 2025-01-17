@@ -8,14 +8,11 @@ generate:
   languages: [en-US]
   overlay: true
   trailer: false
+  skip-first-gap: true
   type: VIDEO
 upload:
   auth-pattern: ArtOfWar
   creator-id: ArtOfWar
-  # produced-by: 
-  # original-date: 
-  # original-url:
-  # original-title: 
   languages: [en-US]
 email: mail@a-voss.de
 
