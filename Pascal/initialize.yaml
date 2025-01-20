@@ -23,6 +23,7 @@ upload:
   creator-id: www.neutralitystudies.com
   produced-by: Neutrality Studies
   creative-commons: true
+  upload-transcripts: true
   languages: [de-DE,ar-SA,cmn-CN,es-ES,fr-FR,ja-JP,ru-RU,pt-BR,hi-IN,it-IT,id-ID]
 email: mail@a-voss.de
 
