@@ -6,7 +6,7 @@ video:
   names: 
 generate:
   languages: [en-US]
-  overlay: true
+  overlay: false
   trailer: false
   skip-first-gap: true
   type: VIDEO
