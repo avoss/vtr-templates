@@ -9,7 +9,9 @@ thumbnail:
     mode: CATCHY
 upload:
   original-date: "" 
-  original-title: "" 
+  original-title: ""
+
+  creative-commons: true
   auth-pattern: NeutralityStudies_%s
   creator-id: "Jeffrey Sachs Audio Essays"
   languages: [ar-SA,cmn-CN,de-DE,es-ES,fr-FR,ja-JP,ru-RU,pt-BR,hi-IN,it-IT,id-ID,en-US]
