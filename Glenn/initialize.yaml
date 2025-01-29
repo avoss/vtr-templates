@@ -1,0 +1,26 @@
+video:
+  title: ""
+  url: ""
+  language: en-US
+  voices: [M3,M2]
+  names: "Glenn Diesen"
+thumbnail:
+  fancy:
+    text: ""
+    mode: NEUTRAL
+  bottom:
+    text: "Professor Glenn Diesen"
+    mode: NEUTRAL
+generate:
+  languages: [de-DE,es-ES,fr-FR,ru-RU,pt-BR]
+  overlay: true
+  type: VIDEO
+upload:
+  auth-pattern: GlennDiesen_%s
+  creator-id: GlennDiesen
+  produced-by: "Glenn Diesen"
+  creative-commons: false
+  upload-transcripts: false
+  languages: [de-DE,es-ES,fr-FR,ru-RU,pt-BR]
+email: mail@a-voss.de
+

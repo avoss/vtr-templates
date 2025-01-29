@@ -7,7 +7,6 @@ video:
 generate:
   languages: [en-US]
   overlay: false
-  trailer: false
   skip-first-gap: true
   type: VIDEO
 upload:

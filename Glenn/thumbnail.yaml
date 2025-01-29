@@ -1,0 +1,33 @@
+---
+backgroundImage: "thumbnail.png"
+sourceLanguage: "en-US"
+darkenedAreas: []
+fancyTexts:
+- xoffset: 600
+  yoffset: 20
+  maxWidth: 640
+  maxHeight: 572
+  fontColor: "#fadb00"
+  shinyFontColor: "#ffffff"
+  shinyWithGlow: true
+  textShadow: 4
+  fontFamily: null
+  fontSizeMin: 40
+  fontSizeMax: 500
+  fontSizeStep: 1
+  heightImportance: 1.0
+  widthImportance: 1.0
+  fontImportance: 15.0
+  justifiedImportance: 3.0
+  mode: "NEUTRAL"
+  maxNumberOfLines: 5
+  text: "End of Neutrality in Europe"
+simpleTexts:
+- xoffset: 20
+  yoffset: 623
+  fontColor: "#ffffff"
+  fontFamily: null
+  fontSize: 65
+  alignment: "LEFT"
+  mode: "NEUTRAL"
+  text: "Professor Glenn Diesen"
