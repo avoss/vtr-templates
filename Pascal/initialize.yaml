@@ -16,7 +16,6 @@ thumbnail:
 generate:
   languages: [de-DE,ar-SA,cmn-CN,es-ES,fr-FR,ja-JP,ru-RU,pt-BR,hi-IN,it-IT,id-ID]
   overlay: true
-  trailer: false
   type: VIDEO
 upload:
   auth-pattern: NeutralityStudies_%s
