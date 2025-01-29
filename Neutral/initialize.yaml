@@ -11,7 +11,6 @@ thumbnail:
 generate:
   languages: [de-DE,es-ES,fr-FR]
   overlay: true
-  trailer: true
   type: VIDEO
 upload:
   auth-pattern: PreviewCredentials
