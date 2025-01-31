@@ -3,7 +3,7 @@ video:
   url: ""
   language: pt-BR
   voices: [M3]
-  names: 
+  names: "Robinson Farinazzo"
 generate:
   languages: [en-US]
   overlay: false
