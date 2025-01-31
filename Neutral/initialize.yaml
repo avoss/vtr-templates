@@ -1,7 +1,7 @@
 video:
   title: ""
   url: ""
-  language: en-US
+  language: en-US # must change in thumbnail.yaml too
   voices: [M2,F1,M1]
   names: ""
 thumbnail:

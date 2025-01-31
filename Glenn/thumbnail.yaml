@@ -11,7 +11,6 @@ fancyTexts:
   shinyFontColor: "#ffffff"
   shinyWithGlow: true
   textShadow: 4
-  fontFamily: null
   fontSizeMin: 40
   fontSizeMax: 500
   fontSizeStep: 1
@@ -21,12 +20,11 @@ fancyTexts:
   justifiedImportance: 3.0
   mode: "NEUTRAL"
   maxNumberOfLines: 5
-  text: "End of Neutrality in Europe"
+  text: ""
 simpleTexts:
 - xoffset: 20
   yoffset: 623
   fontColor: "#ffffff"
-  fontFamily: null
   fontSize: 65
   alignment: "LEFT"
   mode: "NEUTRAL"

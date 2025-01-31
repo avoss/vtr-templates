@@ -1,5 +1,6 @@
 ---
 backgroundImage: "narration.png"
+sourceLanguage: en-US
 darkenedAreas: []
 fancyTexts:
 - xoffset: 180
@@ -10,7 +11,6 @@ fancyTexts:
   shinyFontColor: "#ffffff"
   shinyWithGlow: true
   textShadow: 4
-  fontFamily: null
   fontSizeMin: 40
   fontSizeMax: 500
   fontSizeStep: 1
