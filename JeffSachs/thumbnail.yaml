@@ -1,5 +1,6 @@
 ---
 backgroundImage: "thumbnail.png"
+sourceLanguage: "en-US"
 fancyTexts:
 - xoffset: 400
   yoffset: 40
