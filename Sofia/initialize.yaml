@@ -9,7 +9,6 @@ thumbnail:
 generate:
   languages: [de-DE,cmn-CN,es-ES,fr-FR,ja-JP]
   overlay: true
-  trailer: true
   adjust-description-timestamps: true
   type: VIDEO
 upload:
