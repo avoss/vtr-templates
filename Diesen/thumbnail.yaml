@@ -5,14 +5,14 @@ darkenedAreas:
 - xoffset: 0
   yoffset: 0
   width: 1280
-  height: 250
-  color: "#051d39"
+  height: 117
+  color: "#04194b"
   alpha: 1.0
 fancyTexts:
 - xoffset: 20
   yoffset: 20
   maxWidth: 1240
-  maxHeight: 180
+  maxHeight: 110
   fontColor: "#fadb00"
   shinyFontColor: "#ffffff"
   shinyWithGlow: true
@@ -24,7 +24,7 @@ fancyTexts:
   widthImportance: 1.0
   fontImportance: 15.0
   justifiedImportance: 3.0
-  mode: "NEUTRAL"
+  mode: "CATCHY"
   maxNumberOfLines: 2
-  text: ""
+  text: "EU Panics as Peace Breaks Out"
 simpleTexts: []
