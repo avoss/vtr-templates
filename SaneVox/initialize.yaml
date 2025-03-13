@@ -2,16 +2,13 @@ video:
   title: ""
   url: ""
   language: en-US
-  voices: [F1,M3]
+  voices: [M1]
 thumbnail:
   fancy:
     text: ""
-  bottom:
-    text: "Alexander & Sofia"
 generate:
   languages: [de-DE,cmn-CN,es-ES,ru-RU,fr-FR,ja-JP,pt-BR]
   overlay: true
-  adjust-description-timestamps: true
   type: VIDEO
 upload:
   auth-pattern: "SaneVox_%s"

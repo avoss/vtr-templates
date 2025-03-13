@@ -1,5 +1,6 @@
 ---
 backgroundImage: "thumbnail-orig.png"
+sourceLanguage: en-US
 darkenedAreas: 
 - xoffset: 0
   yoffset: 500
@@ -16,7 +17,6 @@ fancyTexts:
   shinyFontColor: "#ffffff"
   shinyWithGlow: true
   textShadow: 4
-  fontFamily: null
   fontSizeMin: 40
   fontSizeMax: 500
   fontSizeStep: 1
@@ -24,7 +24,7 @@ fancyTexts:
   widthImportance: 1.0
   fontImportance: 15.0
   justifiedImportance: 3.0
-  mode: "CATCHY"
+  mode: CATCHY
   maxNumberOfLines: 2
-  text: "Brink of Nuclear War"
+  text: ""
 simpleTexts: []

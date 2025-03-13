@@ -3,19 +3,18 @@ video:
   url: ""
   language: en-US
   voices: [M2,M1]
-  names: "Current President of Iran is Massud Peseschkian"
+  names: "Danny Haiphong"
 thumbnail:
   fancy:
     text: ""
 generate:
-  languages: [de-DE,ar-SA,cmn-CN,es-ES,fr-FR,ja-JP,ru-RU,pt-BR]
+  languages: [de-DE,ru-RU,es-ES,pt-BR,fr-FR]
   overlay: true
-  trailer: true
   type: VIDEO
 upload:
-  auth-pattern: NeutralityStudies_%s
+  auth-pattern: DannyHaiphong_%s
   creator-id: DannyHaiphong
   produced-by: Danny Haiphong
-  languages: [de-DE,ar-SA,cmn-CN,es-ES,fr-FR,ja-JP,ru-RU,pt-BR]
+  languages: [de-DE,ru-RU,es-ES,pt-BR,fr-FR]
 email: mail@a-voss.de
 
